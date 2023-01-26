@@ -1,0 +1,48 @@
+
+/home/runner/work/exp-addition-of-zeros-dei/exp-addition-of-zeros-dei/experiment/simulation/js/main.js
+   10:5   warning  'stepeqn' is assigned a value but never used  no-unused-vars
+   10:13  warning  'impulseresponse' is defined but never used   no-unused-vars
+   11:5   warning  'eqn' is defined but never used               no-unused-vars
+   12:5   warning  'poles' is assigned a value but never used    no-unused-vars
+   13:4   warning  'roots' is assigned a value but never used    no-unused-vars
+   14:5   warning  'kpi' is defined but never used               no-unused-vars
+   14:9   warning  'essi' is defined but never used              no-unused-vars
+   14:14  warning  'esss' is assigned a value but never used     no-unused-vars
+   15:26  warning  'z2i' is assigned a value but never used      no-unused-vars
+  117:10  warning  'addval' is defined but never used            no-unused-vars
+  125:9   warning  'nums' is defined but never used              no-unused-vars
+  125:15  warning  'dens' is defined but never used              no-unused-vars
+  133:9   warning  'x1' is defined but never used                no-unused-vars
+  133:13  warning  'y1' is defined but never used                no-unused-vars
+  134:9   warning  'ni' is assigned a value but never used       no-unused-vars
+  135:9   warning  'di' is assigned a value but never used       no-unused-vars
+  264:13  warning  'j' is defined but never used                 no-unused-vars
+  264:16  warning  'k' is defined but never used                 no-unused-vars
+  270:8   warning  'MathJax' is not defined                      no-undef
+  270:38  warning  'MathJax' is not defined                      no-undef
+  271:8   warning  'MathJax' is not defined                      no-undef
+  271:38  warning  'MathJax' is not defined                      no-undef
+  272:8   warning  'MathJax' is not defined                      no-undef
+  272:38  warning  'MathJax' is not defined                      no-undef
+  273:8   warning  'MathJax' is not defined                      no-undef
+  273:38  warning  'MathJax' is not defined                      no-undef
+  286:2   warning  Unnecessary semicolon                         no-extra-semi
+  290:10  warning  'showval' is defined but never used           no-unused-vars
+  295:2   warning  Unnecessary semicolon                         no-extra-semi
+  302:2   warning  Unnecessary semicolon                         no-extra-semi
+  306:10  warning  'runprog' is defined but never used           no-unused-vars
+  306:18  warning  'i' is defined but never used                 no-unused-vars
+  321:2   warning  Unnecessary semicolon                         no-extra-semi
+  329:13  warning  'chartplot1' is already defined               no-redeclare
+  365:22  warning  'Chart' is not defined                        no-undef
+  463:2   warning  Unnecessary semicolon                         no-extra-semi
+  467:10  warning  'dispmenu' is defined but never used          no-unused-vars
+  859:10  warning  'amplitudei2' is defined but never used       no-unused-vars
+  867:10  warning  'amplitudei1' is defined but never used       no-unused-vars
+  892:10  warning  'amplituder1' is defined but never used       no-unused-vars
+  897:10  warning  'amplituder2' is defined but never used       no-unused-vars
+  902:10  warning  'amplitud' is defined but never used          no-unused-vars
+
+✖ 42 problems (0 errors, 42 warnings)
+  0 errors and 5 warnings potentially fixable with the `--fix` option.
+
